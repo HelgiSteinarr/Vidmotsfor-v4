@@ -154,4 +154,4 @@ NameError: name 'np' is not defined
 
 4. [Kóði og comment](https://github.com/gudmunduroh/arcore-unity-sdk/blob/master/Assets/GoogleARCore/Examples/AugmentedImage/Scripts/AugmentedImageExampleController.cs)
 
-5. https://github.com/gudmunduroh/arcore-unity-sdk/blob/master/Assets/GoogleARCore/Examples/HelloAR/Scripts/HelloARController.cs
+5. [Kóði](https://github.com/gudmunduroh/arcore-unity-sdk/blob/master/Assets/GoogleARCore/Examples/HelloAR/Scripts/HelloARController.cs)
